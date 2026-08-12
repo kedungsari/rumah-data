@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kedungsari.github.io/rumah-data/sitemap.xml
